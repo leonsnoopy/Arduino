@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [java取得arduino的rxtx資訊](chapter1.md)
+
