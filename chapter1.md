@@ -2,11 +2,12 @@
 
 # Ｍac 環境下
 
-* ### [Arduino官網介紹](http://playground.arduino.cc/Interfacing/Java)
-* 需要先下載rxtx的lib
+1. ### [Arduino官網介紹](http://playground.arduino.cc/Interfacing/Java)
+2. 需要先下載rxtx的lib
 
-* mac設定環境
-* 增加rxtx lib需要用到而mac沒有的資料夾
+3. mac設定環境
+
+4. 增加rxtx lib需要用到而mac沒有的資料夾
 
 #### 1.下載資源：GitHub   [https://git.oschina.net/myaniu/RXTX](https://git.oschina.net/myaniu/RXTX)
 
